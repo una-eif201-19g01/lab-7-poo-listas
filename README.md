@@ -16,4 +16,5 @@ Una empresa de renta de vehículos necesita llevar el registro de sus activos es
 
 ## Datos técnicos
 - Desarrollar una lista con herencia, polimorfismo y encapsulamiento
+- Utilizar una clase `abstract`
 - Utilizar la propiedad `struct` de c++ (el estutiante tiene que investigar el término) de alguna forma en el sistema
